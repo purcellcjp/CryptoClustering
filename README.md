@@ -40,6 +40,5 @@ The project analyzes the impact of using fewer features on clustering the data u
 
 - Python
 - pandas
-- NumPy
 - scikit-learn
 - hvPlot
